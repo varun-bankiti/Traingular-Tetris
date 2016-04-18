@@ -1,0 +1,18 @@
+It is a Java based Tetris game with Traingular shape pieces. It is equipped with adjustable speed, scoring factor and piece sizes which make it user friendly for old and low vision players also. It is developed only using Java 2D graphics which makes it very efficient in terms of resource consumption.
+
+Language : Java
+
+Project Name: Triangular Tetris
+
+Developer: Varun Kumar Reddy Bankiti
+
+Version : 1.0
+
+Instructions to run:
+	Compile and run Tetris.java
+		javac Tetris.java
+		java Tetris
+
+Requirements: 
+
+	Java Development Kit-7
